@@ -1,1 +1,1 @@
-# mpi_project
+# Proiect MPI - Harta informaticii
